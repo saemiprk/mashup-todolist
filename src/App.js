@@ -22,7 +22,7 @@ function App() {
         <TodoCreate />
       </TodoTemplate>
     </TodoProvider>
-  ); 
+  );
 }
 
 export default App;
